@@ -21,6 +21,12 @@ By default, the editor will display a Search Field, a Refresh Button, and a drop
 * **Display Leveling Track Description:** When enabled, the localized description field will be displayed in the leveling tracks list.
 * **Verbose Logging:** When enabled, the `SimpleLevelingEditorLog` will send logs to the Output Log. Use this to debug the editor if leveling tracks are not displaying correctly.
 
+### XP Table
+
+The **SimpleLeveling** editor UI lists out all leveling tracks registered with the subsystem. It also calculates the XP requirements for every level for a leveling track. To view the XP Table for a given track, select the leveling track row in the list.
+
+![SimpleLeveling Editor UI with XP Table displayed](./Images/EditorUIWithXPTable.png)
+
 ## Debugging SimpleLeveling
 
 ### Logs
