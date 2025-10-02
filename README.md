@@ -29,4 +29,4 @@ If you run into problems or would like to suggest a feature:
 
 ## Versions
 
-* [1.0.0 Documentation](https://github.com/Ericdowney/SimpleLevelingExample)
+* [1.0.0 Documentation](./docs/README.md)
