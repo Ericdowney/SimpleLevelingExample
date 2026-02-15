@@ -30,5 +30,5 @@ If you run into problems or would like to suggest a feature:
 
 ## Versions
 
-* [1.0.0 Documentation](./docs/README.md)
+* [1.0.0 Documentation](https://github.com/Ericdowney/SimpleLevelingExample/tree/de7ccca9ee29ad684a782efad993e03acb901310)
 * [1.1.0 Documentation](./docs/README.md)
