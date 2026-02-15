@@ -14,6 +14,7 @@ Supports Unreal Engine Versions:
 * 5.4
 * 5.5
 * 5.6
+* 5.7
 
 ## How to use this repo
 
@@ -30,3 +31,4 @@ If you run into problems or would like to suggest a feature:
 ## Versions
 
 * [1.0.0 Documentation](./docs/README.md)
+* [1.1.0 Documentation](./docs/README.md)
